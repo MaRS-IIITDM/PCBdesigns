@@ -5,6 +5,6 @@
 ## Folling are the designed PCBs as of now
 
 ### Rover's power supply.
-
-- ![alt text](https://github.com/MaRS-IIITDM/PCBdesigns/blob/main/PowerSupply/pics/Rover%20Power%20Supply%20Board%20PCB%20Layout.PNG?raw=true)
-- ![alt text](https://github.com/MaRS-IIITDM/PCBdesigns/blob/main/PowerSupply/pics/3d_view2.png?raw=true)
+<img src="https://github.com/MaRS-IIITDM/PCBdesigns/blob/main/PowerSupply/pics/Rover%20Power%20Supply%20Board%20PCB%20Layout.PNG" alt="PCB layout" width="250"/>
+![alt text](https://github.com/MaRS-IIITDM/PCBdesigns/blob/main/PowerSupply/pics/3d_view2.png?raw=true)
+![alt text](https://github.com/MaRS-IIITDM/PCBdesigns/blob/main/PowerSupply/pics/3d_view3.png?raw=true)
