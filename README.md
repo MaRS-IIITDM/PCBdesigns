@@ -3,7 +3,17 @@ This repository contains the `.sch` and `.brd` files of the PCBs used in the rov
 
 ## Folling are the designed PCBs as of now
 
-### Rover's power supply.
-<img src="https://github.com/MaRS-IIITDM/PCBdesigns/blob/main/PowerSupply/pics/Rover%20Power%20Supply%20Board%20PCB%20Layout.PNG" alt="PCB layout" width="500"/>
-<img src="https://github.com/MaRS-IIITDM/PCBdesigns/blob/main/PowerSupply/pics/3d_view2.png" alt="PCB layout" width="500"/>
-<img src="https://github.com/MaRS-IIITDM/PCBdesigns/blob/main/PowerSupply/pics/3d_view3.png" alt="PCB layout" width="500"/>
+### Rover's power supply:
+
+<p align = "center">
+  <img src="https://github.com/MaRS-IIITDM/PCBdesigns/blob/main/PowerSupply/pics/Rover%20Power%20Supply%20Board%20PCB%20Layout.PNG" alt="PCB layout" width="500"/>
+  <img src="https://github.com/MaRS-IIITDM/PCBdesigns/blob/main/PowerSupply/pics/3d_view2.png" alt="PCB layout" width="500"/>
+  <img src="https://github.com/MaRS-IIITDM/PCBdesigns/blob/main/PowerSupply/pics/3d_view3.png" alt="PCB layout" width="500"/>
+</p>
+
+### Rover's steering controller:
+
+<p align = "center">
+  <img src="https://github.com/MaRS-IIITDM/PCBdesigns/blob/main/SteeringControler/pics/pcb_layout.jpeg" alt="PCB layout" width="500"/>
+  <img src="https://github.com/MaRS-IIITDM/PCBdesigns/blob/main/SteeringControler/pics/pcb_view1.jpeg" alt="PCB layout" width="500"/>
+</p>
